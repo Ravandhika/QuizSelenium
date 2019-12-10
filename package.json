@@ -1,0 +1,15 @@
+{
+  "name": "hai",
+  "version": "1.0.0",
+  "description": "Selenium Test",
+  "main": "   ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravandhika",
+  "license": "MIT",
+  "dependencies": {
+    "geckodriver": "^1.19.1",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
