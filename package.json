@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "geckodriver": "^1.19.1",
-    "selenium-webdriver": "^4.0.0-alpha.5"
+    "selenium-webdriver": "^4.8.2"
   }
 }
